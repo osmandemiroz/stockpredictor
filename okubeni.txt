@@ -1,0 +1,1 @@
+Uygulamanın daha iyi çalışmasını öngörmek için birden çok app var şuan en iyi çalışan app3.py dosyasıdır onu çalıştırın
